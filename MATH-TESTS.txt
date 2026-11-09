@@ -1,0 +1,39 @@
+PASS quarter-circumference distance
+PASS date-line shortest great-circle distance
+PASS coincident bookmark distance
+PASS north bearing
+PASS east bearing
+PASS flat terrain slope
+PASS known terrain gradient slope
+PASS raising opposite apsis requires prograde burn
+PASS lowering opposite apsis requires retrograde burn
+PASS native nonfinite torque authority cannot produce a runaway control command
+PASS infinite torque authority rejected
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+PASS valid attitude command stays finite and bounded
+FLIGHT TOOLS MATH QA COMPLETE

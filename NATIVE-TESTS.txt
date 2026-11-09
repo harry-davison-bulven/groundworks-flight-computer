@@ -1,0 +1,22 @@
+Standalone stock-only native integration test. Controlled tank fills, punctures, sparks and destruction inputs in a private uncrewed save. No custom part pack, destruction DLL, Harmony or MechJeb installed. Not a complete stock launch/landing qualification.
+PASS standalone fuel runtime loaded
+PASS native ordinary stock-prefab module coverage
+PASS zero original custom part definitions required
+PASS four stock fixture parts load
+PASS uncrewed stock-only three-tank fixture
+PASS flight computer ready on stock probe without original parts
+PASS normal SAS hold command works
+PASS abort relinquishes guidance and cuts throttle
+PASS landing rejects a grounded tank bench
+PASS puncture drains only its tank and updates native resource
+PASS full, low and empty tank flow follows actual content
+PASS cold leaks do not ignite automatically
+PASS spark ignites fuel while empty tank remains unlit
+PASS native shaders and quantity-scaled fuel visuals work
+PASS native module save/load retains leak state
+PASS oxidizer-only vent does not create a fuel fire
+PASS empty native failure adds no custom fuel reservoir
+PASS native part failure transfers exactly remaining finite fuel
+PASS native destruction and explosion behaviour are not patched
+PASS physical external contact starts a leak through the production collision handler
+STANDALONE STOCK-ONLY INTEGRATION COMPLETE
